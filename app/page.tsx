@@ -10,7 +10,7 @@ import { Label } from "@/components/ui/label"
 import { Textarea } from "@/components/ui/textarea"
 import { Checkbox } from "@/components/ui/checkbox"
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert"
-import { Book, GraduationCap, Home, Star, User, AlertTriangle, Moon, Sun, Info } from "lucide-react"
+import { Book, Home, Star, AlertTriangle, Moon, Sun, Info } from "lucide-react"
 import Link from "next/link"
 
 const courses = [
